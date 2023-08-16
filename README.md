@@ -8,13 +8,6 @@ This repository contains a clone of the Amazon.com website, created as a persona
 HTML
 CSS
 
-# Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository: git clone https://github.com/your-username/amazon-clone.git
-2. Open the project directory: cd amazon-clone
-3. Run the index.html file in your preferred web browser.
-
 # Screenshots
 Screenshot 1
 ![image](https://github.com/mayur1107/Amazon.com-clone/assets/114240656/3514d3bc-8794-444d-a775-91962525f08d)
